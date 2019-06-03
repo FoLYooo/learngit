@@ -1,7 +1,7 @@
 # Windows:
 Thumbs.db
 ehthumbs.db
-test.ini
+*.ini
 
 # Python:
 *.py[cod]
